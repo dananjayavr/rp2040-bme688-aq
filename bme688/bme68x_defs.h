@@ -90,7 +90,7 @@
 
 /* Comment or un-comment the macro to provide floating point data output */
 
-//#define BME68X_USE_FPU
+#define BME68X_USE_FPU
 #endif
 
 /* Period between two polls (value can be given by user) */
